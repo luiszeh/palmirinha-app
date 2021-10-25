@@ -31,7 +31,7 @@ https://www.figma.com/file/WatDxtKl7g54QxhDi9qdbq/App-Receitas?node-id=0%3A1
 # Intruções para rodar o projeto:
 
 1. Clone o repositório
-  * `git clone git@github.com:luiszeh/palmirinha-app.git.
+  * `git clone git@github.com:luiszeh/palmirinha-app.git`
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd palmirinha-app`
 
