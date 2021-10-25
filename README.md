@@ -1,5 +1,21 @@
 # Boas vindas ao repositório do projeto Palmirinha App!
 
+# Artigo sobre o desenvolvimento do projeto:
+
+<a href=“https://medium.com/@luisffg91/palmirinha-app-371873b18686“>Palmirinha App</a>
+
+# Equipe:
+
+<a href="https://www.linkedin.com/in/ana-jacomassi-6502971b1/">Ana Jacomassi</a>
+
+<a href="https://www.linkedin.com/in/carolinebenichio/">Caroline Benichio</a>
+
+<a href="https://www.linkedin.com/in/henriquealarcon">Henrique Alarcon</a>
+
+<a href="https://www.linkedin.com/in/luisffg/">Luis Fernando Fonseca</a>
+
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-tavares-da-silva/">Vinícius Tavares</a>
+
 # Habilidades
 
   - Utilizar a Context API do React para gerenciar estado
