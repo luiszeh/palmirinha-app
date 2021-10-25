@@ -1,8 +1,10 @@
 # Boas vindas ao repositório do projeto Palmirinha App!
 
+![Palms App 2](https://user-images.githubusercontent.com/78225894/138777546-d259be83-36c0-4311-899b-0221ffb2f1f2.gif)
+
 # Artigo sobre o desenvolvimento do projeto:
 
-<a href=“https://medium.com/@luisffg91/palmirinha-app-371873b18686“>Palmirinha App</a>
+<a href="https://medium.com/@luisffg91/palmirinha-app-371873b18686">Artigo Palmirinha App</a>
 
 # Equipe:
 
