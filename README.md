@@ -2,11 +2,11 @@
 
 ![Palms App 2](https://user-images.githubusercontent.com/78225894/138777546-d259be83-36c0-4311-899b-0221ffb2f1f2.gif)
 
-# Artigo sobre o desenvolvimento do projeto:
+# Artigo sobre o desenvolvimento do projeto
 
 <a href="https://medium.com/@luisffg91/palmirinha-app-371873b18686">Artigo Palmirinha App</a>
 
-# Equipe:
+# Equipe
 
 <a href="https://www.linkedin.com/in/ana-jacomassi-6502971b1/">Ana Jacomassi</a>
 
@@ -46,7 +46,7 @@ https://www.figma.com/file/WatDxtKl7g54QxhDi9qdbq/App-Receitas?node-id=0%3A1
 
 ---
 
-# Intruções para rodar o projeto:
+# Intruções para rodar o projeto
 
 1. Clone o repositório
   * `git clone git@github.com:luiszeh/palmirinha-app.git`
