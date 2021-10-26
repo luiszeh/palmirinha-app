@@ -1345,3 +1345,5 @@ A rota `/explorar/bebidas/area` não deve estar disponível, retornando um erro 
 
 
 ***Obs: A maneira como as APIs devem ser estruturadas segue os seguintes modelos: https://www.themealdb.com/api.php e https://www.thecocktaildb.com/api.php***
+
+Projeto proposto pela Trybe.
