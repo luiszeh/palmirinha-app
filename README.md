@@ -18,6 +18,8 @@
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-tavares-da-silva/">Vinícius Tavares</a>
 
+* Projeto proposto pela <a href="https://www.betrybe.com/">Trybe</a> e requisitos desenvolvidos pela equipe.
+
 # Habilidades
 
   - Utilizar a Context API do React para gerenciar estado
